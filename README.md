@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/nzulfiqi" target="blank"><img src="https://img.shields.io/twitter/follow/nzulfiqi?logo=twitter&style=for-the-badge" alt="nazazlfq" /></a> </p>
 
-<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="" width="400">
+<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="" width="350">
 
 - 🎓️ I’m undergraduate information systems at **STMIK Jakarta STI&K**
 
