@@ -62,16 +62,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nazazulfiqi&theme=jolly&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazazulfiqi&theme=jolly&hide_border=true" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-</table>
+![](https://github-readme-stats.vercel.app/api?username=nazazulfiqi&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 # 🤝🏻 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nazazulfiqii) 
