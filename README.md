@@ -1,6 +1,6 @@
 # Hi! 👋, I'm Zul!
 
-👨🏻‍💻 Software Developer<br>🎓 Graduated in Information Systems from STMIK Jakarta STI&K<br>☕ A coffee enthusiast who appreciates every good cup<br>🌱 Always exploring and learning new things, especially in technology
+👨🏻‍💻 Software Engineer<br>🎓 Graduated in Information Systems from STMIK Jakarta STI&K<br>☕ A coffee enthusiast who appreciates every good cup<br>🌱 Always exploring and learning new things, especially in technology
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
