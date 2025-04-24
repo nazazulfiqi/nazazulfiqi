@@ -1,4 +1,4 @@
-# Hi! 👋, I'm Zul!
+# Hi! 👋, I'm Naza!
 
 👨🏻‍💻 Software Engineer<br>🎓 Graduated in Information Systems from STMIK Jakarta STI&K<br>☕ A coffee enthusiast who appreciates every good cup<br>🌱 Always exploring and learning new things, especially in technology
 
