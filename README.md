@@ -1,7 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 # Hi! 👋, I'm Naza!
 
-👨🏻‍💻 Software Engineer<br>🎓 Graduated in Information Systems from STMIK Jakarta STI&K<br>☕ A coffee enthusiast who appreciates every good cup<br>🌱 Always exploring and learning new things, especially in technology
+👨🏻‍💻 Software Engineer<br>🎓 Information Systems STMIK Jakarta STI&K<br>☕ A coffee enthusiast who appreciates every good cup<br>🌱 Always exploring and learning new things, especially in technology
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
